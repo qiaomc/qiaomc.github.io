@@ -797,8 +797,8 @@
                 "required": false,
                 "version": [
                     1,
-                    3,
-                    8
+                    4,
+                    5
                 ],
                 "url": "https://qiaomc.github.io/firmware-1.38.bin",
                 "bootloaderResource": "https://activ.digitalshield.cn/data/bootloader.bin",
