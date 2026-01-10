@@ -800,7 +800,7 @@
                     4,
                     5
                 ],
-                "url": "https://qiaomc.github.io/firmware-1.38.bin",
+                "url": "https://qiaomc.github.io/firmware.bin",
                 "bootloaderResource": "https://activ.digitalshield.cn/data/bootloader.bin",
                 "bootloaderVersion": [
                     1,
