@@ -838,8 +838,9 @@
                     2,
                     1
                 ],
-                "url:": "https://qiaomc.github.io/firmware.bin",
-                "webUpdate": "",
+                "url:": "https://qiaomc.github.io/ota.bin",
+                "webUpdate": "https://qiaomc.github.io/firmware.bin",
+                "resource": "",
                 "fingerprint": "",
                 "changelog": {
                     "zh-CN": "### 💎 改进\r\n- 新增版本号信息\r\n",
