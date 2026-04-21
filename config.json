@@ -794,7 +794,7 @@
     "pro": {
         "firmware-v6": [
             {
-                "required": false,
+                "required": true,
                 "version": [
                     1,
                     5,
@@ -832,13 +832,13 @@
         "firmware": [],
         "ble": [
             {
-                "required": false,
+                "required": true,
                 "version": [
                     1,
                     2,
                     1
                 ],
-                "webUpdate": "https://qiaomc.github.io/ota.bin",
+                "url:": "https://qiaomc.github.io/ota.bin",
                 "fingerprint": "",
                 "changelog": {
                     "zh-CN": "### 💎 改进\r\n- 新增版本号信息\r\n",
