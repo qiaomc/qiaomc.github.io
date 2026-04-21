@@ -829,7 +829,6 @@
                 }
             }
         ],
-        "firmware": [],
         "ble": [
             {
                 "required": true,
