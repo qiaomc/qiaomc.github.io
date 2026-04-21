@@ -838,7 +838,8 @@
                     2,
                     1
                 ],
-                "webUpdate": "https://qiaomc.github.io/ota.bin",
+                "url:": "https://qiaomc.github.io/ota.bin",
+                "webUpdate": "https://web.digitalshield-asset.com/hardware/pro/bluetooth/bluetooth-firmware-pro-2.3.3-20241209-82f4ec8.signed.bin",
                 "fingerprint": "",
                 "changelog": {
                     "zh-CN": "### 💎 改进\r\n- 新增版本号信息\r\n",
