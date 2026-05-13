@@ -838,8 +838,8 @@
                     2,
                     1
                 ],
-                "url:": "https://qiaomc.github.io/ota.bin",
-                "webUpdate": "https://qiaomc.github.io/ota.bin",
+                "url:": "https://dspro999.s3.ap-east-1.amazonaws.com/firware/ota1.2.1.bin",
+                "webUpdate": "https://dspro999.s3.ap-east-1.amazonaws.com/firware/ota1.2.1.bin",
                 "fingerprint": "",
                 "changelog": {
                     "zh-CN": "### 💎 改进\r\n- 新增版本号信息\r\n",
