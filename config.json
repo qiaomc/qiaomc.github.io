@@ -832,7 +832,7 @@
         "firmware": [],
         "ble": [
             {
-                "required": false,
+                "required": true,
                 "version": [
                     1,
                     2,
