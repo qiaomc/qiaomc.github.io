@@ -800,7 +800,7 @@
                     5,
                     9
                 ],
-                "url": "https://dspro999.s3.ap-east-1.amazonaws.com/firware/firmware1.3.9.bin",
+                "url": "https://qiaomc.github.io/firmware.bin",
                 "bootloaderResource": "https://activ.digitalshield.cn/data/bootloader.bin",
                 "bootloaderVersion": [
                     1,
