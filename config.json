@@ -817,7 +817,7 @@
                     "1.1.2",
                     "2.1.0"
                 ],
-                "resource": "https://qiaomc.github.io/update_res.zip",
+                "resource": "https://dspro999.s3.ap-east-1.amazonaws.com/firware/1.3.8/update_res.zip",
                 "fingerprint": "",
                 "changelog": {
                     "zh-CN": "### 🐞 问题修复\r\n- 修复部分生产批次设备的哈希验证失败问题\r\n",
