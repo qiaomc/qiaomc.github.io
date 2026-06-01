@@ -820,8 +820,8 @@
                 "resource": "https://dspro999.s3.ap-east-1.amazonaws.com/firware/1.3.8/update_res.zip",
                 "fingerprint": "",
                 "changelog": {
-                    "zh-CN": "### 🐞 更新内容\r\n- 新增二维码签名连接APP，实现该连接方式下的核心功能体验\r\n 新增 polkadot assethub 网络\r\n",
-                    "en-US": "### 🐞 Update content\r\n- Added QR code signature connection for the APP, enabling core feature experience under this connection method\r\n Added the Polkadot AssetHub network\r\n"
+                    "zh-CN": "### 🐞 更新说明\r\n- 优化签名时的币种信息显示\r\n 优化与App之间的连接及响应稳定性\r\n 优化账户列表网络名称及详情页地址的显示效果\r\n",
+                    "en-US": "### 🐞 Update Notes\r\n- Optimize the display of currency information during signature optimization\r\n Optimize the connection and response stability between the app and the optimization\r\n Optimize the display effect of account list network names and detail page addresses\r\n"
                 },
                 "bootloaderChangelog": {
                     "zh-CN": "### 🐞 问题修复\r\n- 修复部分生产批次设备的哈希验证失败问题\r\n",
