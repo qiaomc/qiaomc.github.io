@@ -820,8 +820,8 @@
                 "resource": "https://dspro999.s3.ap-east-1.amazonaws.com/firware/1.3.8/update_res.zip",
                 "fingerprint": "",
                 "changelog": {
-                    "zh-CN": "### 🐞 问题修复\r\n- 修复部分生产批次设备的哈希验证失败问题\r\n",
-                    "en-US": "### 🐞 Bug Fixes\r\n- Fixed hash verification failure issues affecting certain production batches of devices\r\n"
+                    "zh-CN": "### 🐞 更新内容\r\n- 新增二维码签名连接APP，实现该连接方式下的核心功能体验\r\n 新增 polkadot assethub 网络\r\n",
+                    "en-US": "### 🐞 Update content\r\n- Added QR code signature connection for the APP, enabling core feature experience under this connection method\r\n Added the Polkadot AssetHub network\r\n"
                 },
                 "bootloaderChangelog": {
                     "zh-CN": "### 🐞 问题修复\r\n- 修复部分生产批次设备的哈希验证失败问题\r\n",
@@ -842,8 +842,8 @@
                 "webUpdate": "https://dspro999.s3.ap-east-1.amazonaws.com/firware/ota1.2.1.bin",
                 "fingerprint": "",
                 "changelog": {
-                    "zh-CN": "### 💎 改进\r\n- 新增版本号信息\r\n",
-                    "en-US": "### 💎 Improvements\r\n- Added version number information\r\n"
+                    "zh-CN": "### 💎 改进\r\n- 增大蓝牙传输文本大小，并增强传输稳定性\r\n",
+                    "en-US": "### 💎 Improvements\r\n- Increase the size of Bluetooth transmission text and enhance transmission stability\r\n"
                 }
             }
         ]
