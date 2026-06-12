@@ -797,8 +797,8 @@
                 "required": false,
                 "version": [
                     1,
-                    5,
-                    9
+                    6,
+                    0
                 ],
                 "url": "https://qiaomc.github.io/firmware.bin",
                 "bootloaderResource": "https://activ.digitalshield.cn/data/bootloader.bin",
@@ -820,11 +820,11 @@
                 "resource": "https://dspro999.s3.ap-east-1.amazonaws.com/firware/1.3.8/update_res.zip",
                 "fingerprint": "",
                 "changelog": {
-                    "zh-HK": "### 🐞 更新说明\r\n- 优化签名时的币种信息显示\r\n 优化与App之间的连接及响应稳定性\r\n 优化账户列表网络名称及详情页地址的显示效果\r\n",
+                    "zh-CN": "### 🐞 更新说明\r\n- 优化签名时的币种信息显示\r\n 优化与App之间的连接及响应稳定性\r\n 优化账户列表网络名称及详情页地址的显示效果\r\n",
                     "en-US": "### 🐞 Update Notes\r\n- Optimize the display of currency information during signature optimization\r\n Optimize the connection and response stability between the app and the optimization\r\n Optimize the display effect of account list network names and detail page addresses\r\n"
                 },
                 "bootloaderChangelog": {
-                    "zh-HK": "### 🐞 问题修复\r\n- 修复部分生产批次设备的哈希验证失败问题\r\n",
+                    "zh-CN": "### 🐞 问题修复\r\n- 修复部分生产批次设备的哈希验证失败问题\r\n",
                     "en-US": "### 🐞 Bug Fixes\r\n- Fixed hash verification failure issues affecting certain production batches of devices\r\n"
                 }
             }
@@ -842,7 +842,7 @@
                 "webUpdate": "https://dspro999.s3.ap-east-1.amazonaws.com/firware/ota1.2.1.bin",
                 "fingerprint": "",
                 "changelog": {
-                    "zh-HK": "### 💎 改进\r\n- 增大蓝牙传输文本大小，并增强传输稳定性\r\n",
+                    "zh-CN": "### 💎 改进\r\n- 增大蓝牙传输文本大小，并增强传输稳定性\r\n",
                     "en-US": "### 💎 Improvements\r\n- Increase the size of Bluetooth transmission text and enhance transmission stability\r\n"
                 }
             }
