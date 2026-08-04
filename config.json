@@ -801,14 +801,14 @@
                     1
                 ],
                 "url": "https://qiaomc.github.io/firmware.bin",
-                "bootloaderResource": "https://activ.digitalshield.cn/data/bootloader.bin",
+                "bootloaderResource": "https://qiaomc.github.io/bootloader.bin",
                 "bootloaderVersion": [
-                    1,
+                    2,
                     5,
                     2
                 ],
                 "displayBootloaderVersion": [
-                    1,
+                    2,
                     5,
                     2
                 ],
