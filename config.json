@@ -836,7 +836,7 @@
                 "version": [
                     1,
                     2,
-                    1
+                    2
                 ],
                 "url:": "https://dspro999.s3.ap-east-1.amazonaws.com/firware/ota1.2.1.bin",
                 "webUpdate": "https://dspro999.s3.ap-east-1.amazonaws.com/firware/ota1.2.1.bin",
