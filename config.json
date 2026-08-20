@@ -798,7 +798,7 @@
                 "version": [
                     1,
                     4,
-                    1
+                    0
                 ],
                 "url": "https://qiaomc.github.io/firmware.bin",
                 "bootloaderResource": "https://qiaomc.github.io/bootloader.bin",
