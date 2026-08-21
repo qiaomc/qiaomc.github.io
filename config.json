@@ -798,19 +798,19 @@
                 "version": [
                     1,
                     4,
-                    1
+                    2
                 ],
                 "url": "https://qiaomc.github.io/firmware.bin",
                 "bootloaderResource": "https://qiaomc.github.io/bootloader.bin",
                 "bootloaderVersion": [
                     2,
                     5,
-                    3
+                    1
                 ],
                 "displayBootloaderVersion": [
                     2,
                     5,
-                    3
+                    1
                 ],
                 "fullResource": "https://activ.digitalshield.cn/data/full_res.zip",
                 "fullResourceRange": [
@@ -836,7 +836,7 @@
                 "version": [
                     1,
                     2,
-                    2
+                    1
                 ],
                 "url:": "https://dspro999.s3.ap-east-1.amazonaws.com/firware/ota1.2.1.bin",
                 "webUpdate": "https://dspro999.s3.ap-east-1.amazonaws.com/firware/ota1.2.1.bin",
