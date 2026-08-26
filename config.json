@@ -805,12 +805,12 @@
                 "bootloaderVersion": [
                     2,
                     5,
-                    1
+                    2
                 ],
                 "displayBootloaderVersion": [
                     2,
                     5,
-                    1
+                    2
                 ],
                 "fullResource": "https://activ.digitalshield.cn/data/full_res.zip",
                 "fullResourceRange": [
