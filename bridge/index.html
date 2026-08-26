@@ -139,7 +139,7 @@
 
       <div class="card">
         <div>
-          POST <code>https://localhost:21326/enumerate</code>
+          POST <code>http://localhost:21326/enumerate</code>
           <span class="badge" id="enum-badge">未测</span>
         </div>
         <pre id="enum-out">—</pre>
@@ -147,7 +147,7 @@
     </main>
 
     <script>
-      const BRIDGE = "https://localhost:21326";
+      const BRIDGE = "http://localhost:21326";
 
       function setResult(prefix, ok, text) {
         const badge = document.getElementById(prefix + "-badge");
