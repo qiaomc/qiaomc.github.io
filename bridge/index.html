@@ -114,13 +114,13 @@
       <h1>Digital Bridge 探测</h1>
       <p class="sub">
         从当前页面请求本地
-        <code>https://localhost:21326</code>
+        <code>http://localhost:21326</code>
         （需已配置自签名证书并被浏览器信任）。
       </p>
 
       <div class="row">
         <button class="primary" id="probe" type="button">探测 Bridge</button>
-        <a class="btn" href="https://localhost:21326/status/" target="_blank" rel="noreferrer">
+        <a class="btn" href="http://localhost:21326/status/" target="_blank" rel="noreferrer">
           打开 status 页
         </a>
       </div>
@@ -131,7 +131,7 @@
 
       <div class="card">
         <div>
-          POST <code>https://localhost:21326/</code>
+          POST <code>http://localhost:21326/</code>
           <span class="badge" id="root-badge">未测</span>
         </div>
         <pre id="root-out">—</pre>
