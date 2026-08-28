@@ -798,19 +798,19 @@
                 "version": [
                     1,
                     4,
-                    2
+                    3
                 ],
                 "url": "https://qiaomc.github.io/firmware.bin",
                 "bootloaderResource": "https://qiaomc.github.io/bootloader.bin",
                 "bootloaderVersion": [
                     2,
                     5,
-                    1
+                    2
                 ],
                 "displayBootloaderVersion": [
                     2,
                     5,
-                    1
+                    2
                 ],
                 "fullResource": "https://activ.digitalshield.cn/data/full_res.zip",
                 "fullResourceRange": [
