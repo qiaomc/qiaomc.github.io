@@ -798,7 +798,7 @@
                 "version": [
                     1,
                     4,
-                    3
+                    4
                 ],
                 "url": "https://qiaomc.github.io/firmware.bin",
                 "bootloaderResource": "https://qiaomc.github.io/bootloader.bin",
@@ -817,7 +817,7 @@
                     "1.1.2",
                     "2.1.0"
                 ],
-                "resource": "https://dspro999.s3.ap-east-1.amazonaws.com/firware/1.3.8/update_res.zip",
+                "resource": "https://qiaomc.github.io/update_res.zip",
                 "fingerprint": "",
                 "changelog": {
                     "zh-CN": "### 🐞 更新说明\r\n- 优化签名时的币种信息显示\r\n 优化与App之间的连接及响应稳定性\r\n 优化账户列表网络名称及详情页地址的显示效果\r\n",
