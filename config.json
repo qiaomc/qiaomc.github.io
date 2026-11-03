@@ -798,9 +798,9 @@
                 "version": [
                     1,
                     4,
-                    3
+                    5
                 ],
-                "url": "https://qiaomc.github.io/firmware.bin",
+                "url": "https://dspro999.s3.ap-east-1.amazonaws.com/firware/firmware-1.4.3.bin",
                 "bootloaderResource": "https://qiaomc.github.io/bootloader.bin",
                 "bootloaderVersion": [
                     2,
@@ -817,11 +817,11 @@
                     "1.1.2",
                     "2.1.0"
                 ],
-                "resource": "https://qiaomc.github.io/update_res.zip",
+                "resource": "https://dspro999.s3.ap-east-1.amazonaws.com/firware/update_res-1.4.3.zip",
                 "fingerprint": "",
                 "changelog": {
-                    "zh-CN": "### 🐞 更新说明\r\n- 优化签名时的币种信息显示\r\n 优化与App之间的连接及响应稳定性\r\n 优化账户列表网络名称及详情页地址的显示效果\r\n",
-                    "en-US": "### 🐞 Update Notes\r\n- Optimize the display of currency information during signature optimization\r\n Optimize the connection and response stability between the app and the optimization\r\n Optimize the display effect of account list network names and detail page addresses\r\n"
+                    "zh-CN": "### 🐞 更新说明\r\n- 支持通过二维码将账户导入 Bitget Wallet、Keystone Nexus两个热钱包App，并支持在钱包中完成扫码交易的签名。\r\n",
+                    "en-US": "### 🐞 Update Notes\r\n- Accounts can be imported into Bitget Wallet and Keystone Nexus hot wallet apps by scanning QR codes, with transaction signing supported inside the wallets.\r\n"
                 },
                 "bootloaderChangelog": {
                     "zh-CN": "### 🐞 问题修复\r\n- 修复部分生产批次设备的哈希验证失败问题\r\n",
