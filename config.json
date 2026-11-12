@@ -524,7 +524,7 @@
         "fullResource": "https://activ.digitalshield.cn/data/full_res.zip",
         "fullResourceRange": ["1.1.2", "2.1.0"],
         "resource": "https://dspro999.s3.ap-east-1.amazonaws.com/firware/update_res-1.4.3.zip",
-        "fingerprint": "69d1f07c57fa0c5780e545e7eac883b246b5444119efc12a1f9fb2e7ce8ca8ed",
+        "fingerprint": "",
         "changelog": {
           "zh-CN": "### 🐞 更新说明\r\n- 支持通过二维码将账户导入 Bitget Wallet、Keystone Nexus两个热钱包App，并支持在钱包中完成扫码交易的签名。\r\n",
           "en-US": "### 🐞 Update Notes\r\n- Accounts can be imported into Bitget Wallet and Keystone Nexus hot wallet apps by scanning QR codes, with transaction signing supported inside the wallets.\r\n"
