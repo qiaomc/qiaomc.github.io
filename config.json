@@ -519,6 +519,7 @@
         "version": [1, 4, 3],
         "url": "https://dspro999.s3.ap-east-1.amazonaws.com/firware/firmware-1.4.3.bin",
         "bootloaderResource": "https://dspro999.s3.ap-east-1.amazonaws.com/firware/bootloader-2.5.1.bin",
+        "bootloaderFingerprint": "e519d91700383e6ceca2ba266137ae617bbdc9459f5ec68838f19aa4e687de80",
         "bootloaderVersion": [2, 5, 1],
         "displayBootloaderVersion": [2, 5, 1],
         "fullResource": "https://activ.digitalshield.cn/data/full_res.zip",
@@ -542,7 +543,7 @@
         "version": [1, 2, 1],
         "url:": "https://dspro999.s3.ap-east-1.amazonaws.com/firware/ota1.2.1.bin",
         "webUpdate": "https://dspro999.s3.ap-east-1.amazonaws.com/firware/ota1.2.1.bin",
-        "fingerprint": "",
+        "fingerprint": "2395d031734ada4206889a9c740d1f7b36dc1959e31a143f418bdffed6d00551",
         "changelog": {
           "zh-CN": "### 💎 改进\r\n- 增大蓝牙传输文本大小，并增强传输稳定性\r\n",
           "en-US": "### 💎 Improvements\r\n- Increase the size of Bluetooth transmission text and enhance transmission stability\r\n"
